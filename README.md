@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="./wave.svg" width="100%" alt="Banner animado Alex Sander"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=65000B&height=200&section=header&text=ALEX%20SANDER&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%" alt="Banner Alex Sander"/>
 
 <br>
 
