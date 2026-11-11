@@ -1,86 +1,157 @@
 
-# Alex Sander de Jesus Carvalho
+<div align="center">
 
-> Estudante de Análise e Desenvolvimento de Sistemas
+<img src="./wave.svg" width="100%" alt="Banner animado Alex Sander"/>
 
----
+<br>
 
-### 📫 Contato & Redes Sociais
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=990F20&center=true&vCenter=true&width=600&lines=Alex+Sander+de+Jesus+Carvalho;Estudante+de+ADS;An%C3%A1lise+de+Sistemas;Desenvolvimento+de+Software" alt="Apresentação animada"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sander-de-jesus-carvalho-526020377/)
+<br>
 
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsanderdejesuscarvalho@gmail.com)
+**Desenvolvimento • Tecnologia • Resolução de Problemas**
 
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./Curriculo_.docx)
+<br><br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-65000B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sander-de-jesus-carvalho-526020377/)
+[![Email](https://img.shields.io/badge/Email-65000B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsanderdejesuscarvalho@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-65000B?style=for-the-badge&logo=readthedocs&logoColor=white)](./Curriculo_.docx)
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexsander0977)
 
-### 👨‍💻 Sobre
-
-Atualmente, estou cursando o 2º período de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cidade de São Paulo (UNICID).
-
-Tenho interesse na área de Análise de Sistemas e busco aprimorar meus conhecimentos em tecnologia, desenvolvimento de software e resolução de problemas.
-
-Possuo conhecimentos básicos em programação e desenvolvimento web, adquiridos por meio de estudos e projetos acadêmicos.
-
-* **Área de Interesse:** Análise de Sistemas.
-* **Habilidades Técnicas:** HTML, CSS, JavaScript, Bootstrap, Python, SQL e Git/GitHub.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação, pensamento crítico, organização, aprendizado rápido e proatividade.
-* **Experiência/Projetos Relevantes:** Desenvolvimento de um site sobre a História dos Videogames utilizando HTML, CSS e Bootstrap, aplicando conceitos de estruturação de páginas, estilização e responsividade.
+</div>
 
 ---
 
-### 🛠 Minhas Ferramentas Favoritas
+## 👨‍💻 Sobre Mim
 
-#### 💻 Linguagens e Tecnologias
+Sou estudante do **2º período de Análise e Desenvolvimento de Sistemas (ADS)** na Universidade Cidade de São Paulo (UNICID).
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Tenho interesse na área de **Análise de Sistemas**, desenvolvimento de software e resolução de problemas por meio da tecnologia.
 
-#### 🗄 Banco de Dados
+Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimento web e banco de dados, aplicando o que aprendo em projetos acadêmicos.
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+Busco desenvolver minhas habilidades técnicas e profissionais, com foco no aprendizado contínuo e em oportunidades na área de Tecnologia da Informação.
 
-#### ⚙️ Ferramentas de Desenvolvimento
+### 🎯 Meu Perfil
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Área de Interesse:** Análise de Sistemas e Desenvolvimento de Software.
+- **Conhecimentos Técnicos:** HTML, CSS, JavaScript, Bootstrap, Python, SQL e Git/GitHub.
+- **Competências Pessoais:** Trabalho em equipe, comunicação, pensamento crítico, organização, aprendizado rápido e proatividade.
+- **Objetivo Profissional:** Adquirir experiência na área de TI, aplicando meus conhecimentos e desenvolvendo novas habilidades.
 
 ---
 
-### 📂 Portfólio de Projetos
+## 🛠️ Tecnologias e Ferramentas
 
-#### 💻 Desenvolvimento Front-End para Web
+<div align="center">
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Site Básico em HTML5** | Criação de site básico com 5 páginas em HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
-| **Deploy de Site** | Publicação de site no GitHub Pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
-| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
-| **Site com Bootstrap** | Desenvolvimento de um site sobre a História dos Videogames, utilizando HTML, CSS e Bootstrap para a criação de páginas responsivas. | [Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
-| **Desenvolvimento com IA** | Desenvolvimento Front-End com auxílio de Inteligência Artificial, utilizando ferramentas de IA como apoio na criação e revisão de código. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+### 💻 Linguagens e Desenvolvimento Web
 
-#### 🗃 Modelagem de Banco de Dados
+![HTML5](https://img.shields.io/badge/HTML5-65000B?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-65000B?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-65000B?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-65000B?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-65000B?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema para Salão de Beleza** | Projeto em desenvolvimento envolvendo levantamento de requisitos, modelagem de banco de dados e utilização de SQL para representar informações de um salão de beleza. | Em desenvolvimento |
+### 🗄️ Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-65000B?style=for-the-badge&logo=database&logoColor=white)
+
+### ⚙️ Ferramentas de Desenvolvimento
+
+![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-171717?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-### 🏗 Estrutura do Repositório
+## 🚀 Portfólio de Projetos
 
-Abaixo, a organização deste repositório para facilitar a navegação:
+Projetos desenvolvidos durante minha formação em Análise e Desenvolvimento de Sistemas, com foco na aplicação prática dos conhecimentos adquiridos.
 
-- `root/`: Arquivo README.md de apresentação principal e currículo.
-- `/AT1-Paginas-HTML/`: Projeto de criação de páginas em HTML5.
-- `/AT2-Deploy-de-Site/`: Projeto de publicação de site no GitHub Pages.
-- `/AT3-Calculadora-IMC/`: Projeto de calculadora de IMC com JavaScript.
-- `/AT4-Site-Multi-Paginas-Bootstrap/`: Projeto de desenvolvimento de site responsivo com Bootstrap.
-- `/AT5-Front-End-Copilotado-com-IA/`: Projeto de desenvolvimento Front-End com auxílio de Inteligência Artificial.
-- `/projeto-banco-dados/`: Pasta destinada ao projeto de modelagem de banco de dados para um salão de beleza (em desenvolvimento).
-- `Curriculo_.docx`: Currículo profissional disponível para consulta.
+### 💻 Desenvolvimento Front-End para Web
 
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [**AT1 — Páginas HTML**](./AT1-Paginas-HTML/) | Site informativo sobre o Telescópio Espacial James Webb, com múltiplas páginas e conteúdo astronômico. | HTML, CSS, JavaScript |
+| [**AT2 — Deploy de Site**](./AT2-Deploy-de-Site/) | Publicação e hospedagem de um site utilizando GitHub Pages. | GitHub Pages |
+| [**AT3 — Calculadora de IMC**](./AT3-Calculadora-IMC/) | Aplicação web para cálculo e classificação do Índice de Massa Corporal. | HTML, CSS, JavaScript, Bootstrap |
+| [**AT4 — História dos Videogames**](./AT4-Site-Multi-Paginas-Bootstrap/) | Site responsivo sobre a evolução dos jogos eletrônicos, com galeria, curiosidades e navegação entre páginas. | HTML, CSS, JavaScript, Bootstrap |
+| [**AT5 — Front-End com IA**](./AT5-Front-End-Copilotado-com-IA/) | Desenvolvimento de uma aplicação Front-End com auxílio de ferramentas de Inteligência Artificial. | HTML, CSS, JavaScript, IA |
+
+### 🗃️ Modelagem de Banco de Dados
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [**Sistema de Gerenciamento para Salão de Beleza**](https://github.com/Alexsander0977/Sistema-de-Gerecionamento-para-Salao-de-Beleza) | Projeto acadêmico de modelagem de dados envolvendo levantamento de requisitos, estruturação e organização das informações de um sistema de gerenciamento para salão de beleza. | Modelagem de Dados, SQL |
+
+> Os projetos apresentados fazem parte da minha trajetória acadêmica e representam a evolução dos meus conhecimentos em desenvolvimento de software e análise de sistemas.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexsander0977&show_icons=true&theme=dark&title_color=990F20&icon_color=990F20&text_color=FFFFFF&bg_color=171717&hide_border=true" alt="Estatísticas do GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander0977&layout=compact&theme=dark&title_color=990F20&text_color=FFFFFF&bg_color=171717&hide_border=true" alt="Linguagens mais utilizadas"/>
+
+</div>
+
+---
+
+## 🏗️ Estrutura do Repositório
+
+A organização deste repositório foi desenvolvida para facilitar a navegação entre os projetos acadêmicos.
+
+```text
+portfolio-alex-sander-de-jesus-carvalho/
+│
+├── README.md
+├── wave.svg
+├── Curriculo_.docx
+│
+├── AT1-Paginas-HTML/
+│   └── README.md
+│
+├── AT2-Deploy-de-Site/
+│   └── README.md
+│
+├── AT3-Calculadora-IMC/
+│   └── README.md
+│
+├── AT4-Site-Multi-Paginas-Bootstrap/
+│   └── README.md
+│
+└── AT5-Front-End-Copilotado-com-IA/
+    └── README.md
+```
+
+Cada pasta contém os arquivos do respectivo projeto acadêmico e sua documentação específica.
+
+O projeto de modelagem de banco de dados está disponível em um repositório separado.
+
+---
+
+## 📫 Contato
+
+Estou aberto a oportunidades de aprendizado, desenvolvimento profissional e novos desafios na área de Tecnologia da Informação.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-65000B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sander-de-jesus-carvalho-526020377/)
+[![Gmail](https://img.shields.io/badge/Gmail-65000B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsanderdejesuscarvalho@gmail.com)
+[![Currículo](https://img.shields.io/badge/Meu_Currículo-171717?style=for-the-badge&logo=readthedocs&logoColor=white)](./Curriculo_.docx)
+
+<br>
+
+**Alex Sander de Jesus Carvalho**
+
+*Estudante de Análise e Desenvolvimento de Sistemas*
+
+</div>
